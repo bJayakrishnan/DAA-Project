@@ -2,11 +2,12 @@
 
 The following instruction shows how to compile and executes the file.
 
-Navigate to the src folder.
-
 TSP using dynamic programing is used to compare the results.
 
 Change the input file in the command line argument for different testcase.
+
+Navigate to the src folder. Executes the following commands
+
 
 ---------------------------------------------------------------------------------
 
