@@ -11,7 +11,7 @@ Change the input file in the command line argument for different testcase
 
 Christofides algorithm: 
 
-> g++ christofides.cpp
+> g++ main.cpp
 
 > ./a.out tc_1.txt
 
